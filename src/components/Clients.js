@@ -10,7 +10,7 @@ import {
     TableRow
 } from '@brandwatch/axiom-components';
 
-const CLIENT_REQUEST = 'http://loki.devserver0.btn1.bwcom.net:4040/brandwatch/clients?nameContains=a&access_token=5eca1443-d312-4315-9143-3828834e28a5';
+const CLIENT_REQUEST = 'http://loki.devserver0.btn1.bwcom.net:4040/brandwatch/clients?nameContains=a&access_token=[TOKEN]';
 
 class Clients extends Component {
     constructor(props) {
