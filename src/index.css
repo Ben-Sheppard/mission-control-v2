@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: var(--color-theme-background);
+  color: var(--color-theme-text);
+}
+
+nav {
+  width: 20%;
+  float: left;
+}
+
+#root {
+  width: 100%;
+}
+
+#clientTable {
+  width: 80%;
+  float: left;
+}
